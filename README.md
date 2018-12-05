@@ -1,8 +1,5 @@
 # Pixel Art to CSS
 
-<a target='_blank' href='http://www.recurse.com' title='Made at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>
-<a href="https://travis-ci.com/jvalen/pixel-art-react"><img src="https://travis-ci.com/jvalen/pixel-art-react.svg?branch=master" alt="travis ci"></a>
-
 ### Did you know that you can draw and animate pixel art using CSS?
 
 **pixel-art-react** is a handy and intuitive tool, that can help you to design your awesome drawings and animations!
@@ -78,9 +75,3 @@ npm run test
 ## Contributing
 #### Help me to improve it, share and enjoy :)
 Please create a Github issue if there is something wrong or to be improved. Pull request are also welcome and they can be created to the develop branch.
-
-
-## License
-
-[MIT](https://opensource.org/licenses/mit-license.php)
-Copyright © 2016 Javier Valencia Romero (@jvalen)
